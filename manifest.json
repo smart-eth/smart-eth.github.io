@@ -1,0 +1,7 @@
+{
+    "short_name": "SMART ETH",
+    "name": "SMART ETH Struct viewer",
+    
+    "start_url": "./index.html",
+    "display": "standalone",
+}
